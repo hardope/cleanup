@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: xcleanup
+Version: 0.0.8
+Summary: Python implementation of a default List using linked list
+Home-page: https://github.com/hardope/cleanup
+Author: Opeoluwa Adeyeri
+Author-email: adeyeriopeoluwa05@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# Cleanup
