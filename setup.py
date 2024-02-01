@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="xcleanup",
-    version="0.0.9",
+    version="0.1.0",
     author="Opeoluwa Adeyeri",
     author_email="adeyeriopeoluwa05@gmail.com",
     url="https://github.com/hardope/cleanup",
